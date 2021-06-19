@@ -30,6 +30,8 @@
 | PyWin32     | 301      | pyperclip的使用           |
 | pyperclip   | 1.8.2    | 需先按照PyWin32           |
 | PyUserInput | 0.1.10   | pymouse、pykeyboard的使用 |
+
+
 pip install PyWin32  
 pip install PyUserInput
 
